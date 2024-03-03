@@ -1,0 +1,14 @@
+D:\PEMROGRAMMAN\BACK_END\C#\learning\CinemaBookTicket\bin\Debug\net8.0\CinemaBookTicket.exe
+D:\PEMROGRAMMAN\BACK_END\C#\learning\CinemaBookTicket\bin\Debug\net8.0\CinemaBookTicket.deps.json
+D:\PEMROGRAMMAN\BACK_END\C#\learning\CinemaBookTicket\bin\Debug\net8.0\CinemaBookTicket.runtimeconfig.json
+D:\PEMROGRAMMAN\BACK_END\C#\learning\CinemaBookTicket\bin\Debug\net8.0\CinemaBookTicket.dll
+D:\PEMROGRAMMAN\BACK_END\C#\learning\CinemaBookTicket\bin\Debug\net8.0\CinemaBookTicket.pdb
+D:\PEMROGRAMMAN\BACK_END\C#\learning\CinemaBookTicket\obj\Debug\net8.0\CinemaBookTicket.GeneratedMSBuildEditorConfig.editorconfig
+D:\PEMROGRAMMAN\BACK_END\C#\learning\CinemaBookTicket\obj\Debug\net8.0\CinemaBookTicket.AssemblyInfoInputs.cache
+D:\PEMROGRAMMAN\BACK_END\C#\learning\CinemaBookTicket\obj\Debug\net8.0\CinemaBookTicket.AssemblyInfo.cs
+D:\PEMROGRAMMAN\BACK_END\C#\learning\CinemaBookTicket\obj\Debug\net8.0\CinemaBookTicket.csproj.CoreCompileInputs.cache
+D:\PEMROGRAMMAN\BACK_END\C#\learning\CinemaBookTicket\obj\Debug\net8.0\CinemaBookTicket.dll
+D:\PEMROGRAMMAN\BACK_END\C#\learning\CinemaBookTicket\obj\Debug\net8.0\refint\CinemaBookTicket.dll
+D:\PEMROGRAMMAN\BACK_END\C#\learning\CinemaBookTicket\obj\Debug\net8.0\CinemaBookTicket.pdb
+D:\PEMROGRAMMAN\BACK_END\C#\learning\CinemaBookTicket\obj\Debug\net8.0\CinemaBookTicket.genruntimeconfig.cache
+D:\PEMROGRAMMAN\BACK_END\C#\learning\CinemaBookTicket\obj\Debug\net8.0\ref\CinemaBookTicket.dll
