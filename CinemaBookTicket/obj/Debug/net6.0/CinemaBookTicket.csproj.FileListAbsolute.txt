@@ -1,0 +1,5 @@
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\obj\Debug\net6.0\CinemaBookTicket.csproj.AssemblyReference.cache
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\obj\Debug\net6.0\CinemaBookTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\obj\Debug\net6.0\CinemaBookTicket.AssemblyInfoInputs.cache
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\obj\Debug\net6.0\CinemaBookTicket.AssemblyInfo.cs
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\obj\Debug\net6.0\CinemaBookTicket.csproj.CoreCompileInputs.cache

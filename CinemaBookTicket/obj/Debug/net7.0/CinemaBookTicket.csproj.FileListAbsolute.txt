@@ -1,0 +1,15 @@
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\obj\Debug\net7.0\CinemaBookTicket.csproj.AssemblyReference.cache
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\obj\Debug\net7.0\CinemaBookTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\obj\Debug\net7.0\CinemaBookTicket.AssemblyInfoInputs.cache
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\obj\Debug\net7.0\CinemaBookTicket.AssemblyInfo.cs
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\obj\Debug\net7.0\CinemaBookTicket.csproj.CoreCompileInputs.cache
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\bin\Debug\net7.0\CinemaBookTicket.exe
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\bin\Debug\net7.0\CinemaBookTicket.deps.json
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\bin\Debug\net7.0\CinemaBookTicket.runtimeconfig.json
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\bin\Debug\net7.0\CinemaBookTicket.dll
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\bin\Debug\net7.0\CinemaBookTicket.pdb
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\obj\Debug\net7.0\CinemaBookTicket.dll
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\obj\Debug\net7.0\refint\CinemaBookTicket.dll
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\obj\Debug\net7.0\CinemaBookTicket.pdb
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\obj\Debug\net7.0\CinemaBookTicket.genruntimeconfig.cache
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\CinemaBookTicket\obj\Debug\net7.0\ref\CinemaBookTicket.dll
