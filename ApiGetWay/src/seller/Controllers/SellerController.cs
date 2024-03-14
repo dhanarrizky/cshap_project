@@ -3,7 +3,7 @@
 namespace seller.Controllers;
 
 [ApiController]
-[Route("Seller")]
+[Route("GetSeller")]
 public class SellerController : ControllerBase
 {
     private readonly ILogger<SellerController> _logger;

@@ -1,0 +1,25 @@
+{
+    "Routes": [{
+        "DownstreamPathTemplate" : "/GetProduct",
+        "DownstreamScheme" : "http",
+        "DownstreamHostAndPorts" : [
+            {
+                "Host" : "localhost",
+                "port" : 5243
+            }
+        ],
+        "UpstreamPathTemplate" : "/GetProductDetails",
+        "UpstreamHttpMethod" : ["GET"]
+    },{
+        "DownstreamPathTemplate" : "/GetSeller",
+        "DownstreamScheme" : "http",
+        "DownstreamHostAndPorts" : [
+            {
+                "Host" : "localhost",
+                "port" : 5050
+            }
+        ],
+        "UpstreamPathTemplate" : "/GetSellerDetails",
+        "UpstreamHttpMethod" : ["GET"]
+    }]
+}

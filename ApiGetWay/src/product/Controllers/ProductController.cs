@@ -3,7 +3,7 @@
 namespace product.Controllers;
 
 [ApiController]
-[Route("Product")]
+[Route("GetProduct")]
 public class ProductController : ControllerBase
 {
     private readonly ILogger<ProductController> _logger;
