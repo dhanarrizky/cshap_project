@@ -1,0 +1,15 @@
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\FakeMailCheker\bin\Debug\net7.0\FakeMailCheker.exe
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\FakeMailCheker\bin\Debug\net7.0\FakeMailCheker.deps.json
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\FakeMailCheker\bin\Debug\net7.0\FakeMailCheker.runtimeconfig.json
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\FakeMailCheker\bin\Debug\net7.0\FakeMailCheker.dll
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\FakeMailCheker\bin\Debug\net7.0\FakeMailCheker.pdb
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\FakeMailCheker\obj\Debug\net7.0\FakeMailCheker.csproj.AssemblyReference.cache
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\FakeMailCheker\obj\Debug\net7.0\FakeMailCheker.GeneratedMSBuildEditorConfig.editorconfig
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\FakeMailCheker\obj\Debug\net7.0\FakeMailCheker.AssemblyInfoInputs.cache
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\FakeMailCheker\obj\Debug\net7.0\FakeMailCheker.AssemblyInfo.cs
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\FakeMailCheker\obj\Debug\net7.0\FakeMailCheker.csproj.CoreCompileInputs.cache
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\FakeMailCheker\obj\Debug\net7.0\FakeMailCheker.dll
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\FakeMailCheker\obj\Debug\net7.0\refint\FakeMailCheker.dll
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\FakeMailCheker\obj\Debug\net7.0\FakeMailCheker.pdb
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\FakeMailCheker\obj\Debug\net7.0\FakeMailCheker.genruntimeconfig.cache
+C:\dhanar_rizky_krisnadhy\csharp_projects\cshap_project\FakeMailCheker\obj\Debug\net7.0\ref\FakeMailCheker.dll
